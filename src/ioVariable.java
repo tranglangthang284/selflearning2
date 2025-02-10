@@ -13,6 +13,7 @@ public class ioVariable {
         stepA.a01();
         //sau đó gọi phương thức (method) a01 từ object này
         //tức là khi chương trình được thực thi thì nó sẽ thực thi các bước trong phương thức (method) a01
+        // tranglangthang
     }
 
     void a01() {
